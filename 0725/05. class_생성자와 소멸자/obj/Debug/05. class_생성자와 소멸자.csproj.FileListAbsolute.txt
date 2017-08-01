@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\05. class_생성자와 소멸자\bin\Debug\_05.class_생성자와_소멸자.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\05. class_생성자와 소멸자\bin\Debug\_05.class_생성자와_소멸자.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\05. class_생성자와 소멸자\obj\Debug\05. class_생성자와 소멸자.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0725\05. class_생성자와 소멸자\obj\Debug\_05.class_생성자와_소멸자.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\05. class_생성자와 소멸자\obj\Debug\_05.class_생성자와_소멸자.pdb

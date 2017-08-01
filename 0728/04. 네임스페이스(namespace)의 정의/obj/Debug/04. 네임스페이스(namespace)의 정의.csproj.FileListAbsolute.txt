@@ -1,0 +1,7 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\04. 네임스페이스(namespace)의 정의\bin\Debug\_04.네임스페이스_namespace_의_정의.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\04. 네임스페이스(namespace)의 정의\bin\Debug\_04.네임스페이스_namespace_의_정의.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\04. 네임스페이스(namespace)의 정의\obj\Debug\_04.네임스페이스_namespace_의_정의.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\04. 네임스페이스(namespace)의 정의\obj\Debug\_04.네임스페이스_namespace_의_정의.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\04. 네임스페이스(namespace)의 정의\obj\Debug\04. 네임스페이스(namespace)의 정의.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0728\04. 네임스페이스(namespace)의 정의\bin\Debug\_04.네임스페이스_namespace_의_정의.exe.CodeAnalysisLog.xml
+C:\Users\KICT-03\Desktop\c#_study\0728\04. 네임스페이스(namespace)의 정의\bin\Debug\_04.네임스페이스_namespace_의_정의.exe.lastcodeanalysissucceeded

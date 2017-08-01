@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0726\04. 접근권한\bin\Debug\_04.접근권한.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\04. 접근권한\bin\Debug\_04.접근권한.pdb
+C:\Users\KICT-03\Desktop\c#_study\0726\04. 접근권한\obj\Debug\_04.접근권한.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\04. 접근권한\obj\Debug\_04.접근권한.pdb
+C:\Users\KICT-03\Desktop\c#_study\0726\04. 접근권한\obj\Debug\04. 접근권한.csprojResolveAssemblyReference.cache

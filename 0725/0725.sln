@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. class_ex1", "01. class_ex1\01. class_ex1.csproj", "{BDA30DEA-6B91-4E5D-B77F-7E1CD62E85AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. class_ex_204p", "02. class_ex_204p\02. class_ex_204p.csproj", "{25F7DB49-15DD-44AE-ADE3-99958B6ACE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. class_접근권한", "03. class_접근권한\03. class_접근권한.csproj", "{D4EF458B-AE82-4C51-AD50-EDFB2494C49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. class_ex_208~209p", "04. class_ex_208~209p\04. class_ex_208~209p.csproj", "{B74EB8CB-6D55-4B26-A503-25A3A70B38EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. class_생성자와 소멸자", "05. class_생성자와 소멸자\05. class_생성자와 소멸자.csproj", "{A37F3237-7BEC-4A57-B699-E53EB5E2E9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. class_ex_211~212p", "06. class_ex_211~212p\06. class_ex_211~212p.csproj", "{67292C57-4EC1-4E68-8873-453F3C3A46CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. class_정적 자료형", "07. class_정적 자료형\07. class_정적 자료형.csproj", "{1529BF20-87E7-4D49-A30B-E6500D91FA31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. constructor destructor_ex", "08. constructor destructor_ex\08. constructor destructor_ex.csproj", "{0A4BEBEA-4998-482E-924E-8965A90A6A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. DeepCopy_ex_216~217p", "09. DeepCopy_ex_216~217p\09. DeepCopy_ex_216~217p.csproj", "{0E1370AE-1D64-4010-93CC-FCBC4306674C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. class_얕은 복사와 깊은 복사", "10. class_얕은 복사와 깊은 복사\10. class_얕은 복사와 깊은 복사.csproj", "{0D46E2E8-A3F0-4561-8E7E-296F689714AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. class_얕은 복사와 깊은 복사2", "11. class_얕은 복사와 깊은 복사2\11. class_얕은 복사와 깊은 복사2.csproj", "{98C34FC2-361A-44FC-8258-090ED687DD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA30DEA-6B91-4E5D-B77F-7E1CD62E85AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA30DEA-6B91-4E5D-B77F-7E1CD62E85AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA30DEA-6B91-4E5D-B77F-7E1CD62E85AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA30DEA-6B91-4E5D-B77F-7E1CD62E85AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F7DB49-15DD-44AE-ADE3-99958B6ACE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F7DB49-15DD-44AE-ADE3-99958B6ACE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F7DB49-15DD-44AE-ADE3-99958B6ACE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F7DB49-15DD-44AE-ADE3-99958B6ACE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4EF458B-AE82-4C51-AD50-EDFB2494C49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EF458B-AE82-4C51-AD50-EDFB2494C49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EF458B-AE82-4C51-AD50-EDFB2494C49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EF458B-AE82-4C51-AD50-EDFB2494C49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74EB8CB-6D55-4B26-A503-25A3A70B38EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74EB8CB-6D55-4B26-A503-25A3A70B38EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74EB8CB-6D55-4B26-A503-25A3A70B38EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74EB8CB-6D55-4B26-A503-25A3A70B38EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37F3237-7BEC-4A57-B699-E53EB5E2E9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37F3237-7BEC-4A57-B699-E53EB5E2E9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37F3237-7BEC-4A57-B699-E53EB5E2E9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37F3237-7BEC-4A57-B699-E53EB5E2E9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67292C57-4EC1-4E68-8873-453F3C3A46CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67292C57-4EC1-4E68-8873-453F3C3A46CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67292C57-4EC1-4E68-8873-453F3C3A46CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67292C57-4EC1-4E68-8873-453F3C3A46CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1529BF20-87E7-4D49-A30B-E6500D91FA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1529BF20-87E7-4D49-A30B-E6500D91FA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1529BF20-87E7-4D49-A30B-E6500D91FA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1529BF20-87E7-4D49-A30B-E6500D91FA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4BEBEA-4998-482E-924E-8965A90A6A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4BEBEA-4998-482E-924E-8965A90A6A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4BEBEA-4998-482E-924E-8965A90A6A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4BEBEA-4998-482E-924E-8965A90A6A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1370AE-1D64-4010-93CC-FCBC4306674C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1370AE-1D64-4010-93CC-FCBC4306674C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1370AE-1D64-4010-93CC-FCBC4306674C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1370AE-1D64-4010-93CC-FCBC4306674C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D46E2E8-A3F0-4561-8E7E-296F689714AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D46E2E8-A3F0-4561-8E7E-296F689714AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D46E2E8-A3F0-4561-8E7E-296F689714AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D46E2E8-A3F0-4561-8E7E-296F689714AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C34FC2-361A-44FC-8258-090ED687DD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C34FC2-361A-44FC-8258-090ED687DD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C34FC2-361A-44FC-8258-090ED687DD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C34FC2-361A-44FC-8258-090ED687DD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

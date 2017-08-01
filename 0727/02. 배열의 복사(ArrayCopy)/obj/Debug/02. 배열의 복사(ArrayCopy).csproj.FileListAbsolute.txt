@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0727\02. 배열의 복사(ArrayCopy)\bin\Debug\_02.배열의_복사_ArrayCopy_.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\02. 배열의 복사(ArrayCopy)\bin\Debug\_02.배열의_복사_ArrayCopy_.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\02. 배열의 복사(ArrayCopy)\obj\Debug\_02.배열의_복사_ArrayCopy_.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\02. 배열의 복사(ArrayCopy)\obj\Debug\_02.배열의_복사_ArrayCopy_.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\02. 배열의 복사(ArrayCopy)\obj\Debug\02. 배열의 복사(ArrayCopy).csprojResolveAssemblyReference.cache

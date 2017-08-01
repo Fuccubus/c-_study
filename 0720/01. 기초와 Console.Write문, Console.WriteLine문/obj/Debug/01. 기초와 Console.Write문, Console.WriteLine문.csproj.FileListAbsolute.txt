@@ -1,0 +1,9 @@
+C:\Users\KICT-03\Desktop\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\bin\Debug\_01.기초와_Console.Write문__Console.WriteLine문.exe
+C:\Users\KICT-03\Desktop\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\bin\Debug\_01.기초와_Console.Write문__Console.WriteLine문.pdb
+C:\Users\KICT-03\Desktop\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\obj\Debug\_01.기초와_Console.Write문__Console.WriteLine문.exe
+C:\Users\KICT-03\Desktop\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\obj\Debug\_01.기초와_Console.Write문__Console.WriteLine문.pdb
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\bin\Debug\_01.기초와_Console.Write문__Console.WriteLine문.exe
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\bin\Debug\_01.기초와_Console.Write문__Console.WriteLine문.pdb
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\obj\Debug\01. 기초와 Console.Write문, Console.WriteLine문.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\obj\Debug\_01.기초와_Console.Write문__Console.WriteLine문.exe
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\01. 기초와 Console.Write문, Console.WriteLine문\obj\Debug\_01.기초와_Console.Write문__Console.WriteLine문.pdb

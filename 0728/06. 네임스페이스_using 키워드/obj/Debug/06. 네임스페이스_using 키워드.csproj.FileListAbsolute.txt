@@ -1,0 +1,6 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\06. 네임스페이스_using 키워드\bin\Debug\_06.네임스페이스_using_키워드.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\06. 네임스페이스_using 키워드\bin\Debug\_06.네임스페이스_using_키워드.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\06. 네임스페이스_using 키워드\obj\Debug\_06.네임스페이스_using_키워드.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\06. 네임스페이스_using 키워드\obj\Debug\_06.네임스페이스_using_키워드.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\06. 네임스페이스_using 키워드\bin\Debug\_06.네임스페이스_using_키워드.exe.CodeAnalysisLog.xml
+C:\Users\KICT-03\Desktop\c#_study\0728\06. 네임스페이스_using 키워드\bin\Debug\_06.네임스페이스_using_키워드.exe.lastcodeanalysissucceeded

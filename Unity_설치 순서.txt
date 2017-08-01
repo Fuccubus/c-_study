@@ -1,0 +1,13 @@
+
+1. 유니티 구매 -> 페이지 맨 밑 지난 버젼 -> 유니티 x5에서 최신버젼
+		설치 시 Unity 5.6 2f1와 Android Build Support, Visual Studio Community 2017만 체크
+
+2. Java SE Development Kit 8 설치
+
+3. https://developer.android.com/index.html 로 가서 Android Studio 다운로드 및 설치
+		설치 시 Android SDK만 체크
+		윗 경로는 Android Studio의 경로
+		아랫 경로는 Android SDK의 경로, **이 경로를 복사해 놓을 것
+
+4. 유니티 실행 -> Edit -> Preferences -> External Tools 가서
+		아래 Android 란의 SDK 경로에 위에 복사한 경로를 붙이기

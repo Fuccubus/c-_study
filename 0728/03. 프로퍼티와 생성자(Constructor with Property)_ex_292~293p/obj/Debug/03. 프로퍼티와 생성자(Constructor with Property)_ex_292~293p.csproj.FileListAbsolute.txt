@@ -1,0 +1,7 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p\bin\Debug\_03.프로퍼티와_생성자_Constructor_with_Property__ex_292_293p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p\bin\Debug\_03.프로퍼티와_생성자_Constructor_with_Property__ex_292_293p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p\obj\Debug\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0728\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p\obj\Debug\_03.프로퍼티와_생성자_Constructor_with_Property__ex_292_293p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p\obj\Debug\_03.프로퍼티와_생성자_Constructor_with_Property__ex_292_293p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p\bin\Debug\_03.프로퍼티와_생성자_Constructor_with_Property__ex_292_293p.exe.CodeAnalysisLog.xml
+C:\Users\KICT-03\Desktop\c#_study\0728\03. 프로퍼티와 생성자(Constructor with Property)_ex_292~293p\bin\Debug\_03.프로퍼티와_생성자_Constructor_with_Property__ex_292_293p.exe.lastcodeanalysissucceeded

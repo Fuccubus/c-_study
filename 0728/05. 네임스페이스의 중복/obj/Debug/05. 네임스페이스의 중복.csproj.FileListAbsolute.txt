@@ -1,0 +1,6 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\05. 네임스페이스의 중복\bin\Debug\_05.네임스페이스의_중복.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\05. 네임스페이스의 중복\bin\Debug\_05.네임스페이스의_중복.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\05. 네임스페이스의 중복\bin\Debug\_05.네임스페이스의_중복.exe.CodeAnalysisLog.xml
+C:\Users\KICT-03\Desktop\c#_study\0728\05. 네임스페이스의 중복\bin\Debug\_05.네임스페이스의_중복.exe.lastcodeanalysissucceeded
+C:\Users\KICT-03\Desktop\c#_study\0728\05. 네임스페이스의 중복\obj\Debug\_05.네임스페이스의_중복.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\05. 네임스페이스의 중복\obj\Debug\_05.네임스페이스의_중복.pdb

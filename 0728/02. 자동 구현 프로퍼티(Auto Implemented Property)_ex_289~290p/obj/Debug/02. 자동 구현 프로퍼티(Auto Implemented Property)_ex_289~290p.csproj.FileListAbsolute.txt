@@ -1,0 +1,7 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p\bin\Debug\_02.자동_구현_프로퍼티_Auto_Implemented_Property__ex_289_290p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p\bin\Debug\_02.자동_구현_프로퍼티_Auto_Implemented_Property__ex_289_290p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p\bin\Debug\_02.자동_구현_프로퍼티_Auto_Implemented_Property__ex_289_290p.exe.CodeAnalysisLog.xml
+C:\Users\KICT-03\Desktop\c#_study\0728\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p\bin\Debug\_02.자동_구현_프로퍼티_Auto_Implemented_Property__ex_289_290p.exe.lastcodeanalysissucceeded
+C:\Users\KICT-03\Desktop\c#_study\0728\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p\obj\Debug\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0728\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p\obj\Debug\_02.자동_구현_프로퍼티_Auto_Implemented_Property__ex_289_290p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\02. 자동 구현 프로퍼티(Auto Implemented Property)_ex_289~290p\obj\Debug\_02.자동_구현_프로퍼티_Auto_Implemented_Property__ex_289_290p.pdb

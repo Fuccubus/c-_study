@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0801\02. 일반화 메서드_ex_345p\bin\Debug\_02.일반화_메서드_ex_345p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\02. 일반화 메서드_ex_345p\bin\Debug\_02.일반화_메서드_ex_345p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0801\02. 일반화 메서드_ex_345p\obj\Debug\02. 일반화 메서드_ex_345p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0801\02. 일반화 메서드_ex_345p\obj\Debug\_02.일반화_메서드_ex_345p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\02. 일반화 메서드_ex_345p\obj\Debug\_02.일반화_메서드_ex_345p.pdb

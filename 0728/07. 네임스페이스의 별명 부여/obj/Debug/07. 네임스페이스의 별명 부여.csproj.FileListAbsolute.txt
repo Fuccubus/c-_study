@@ -1,0 +1,6 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\07. 네임스페이스의 별명 부여\bin\Debug\_07.네임스페이스의_별명_부여.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\07. 네임스페이스의 별명 부여\bin\Debug\_07.네임스페이스의_별명_부여.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\07. 네임스페이스의 별명 부여\bin\Debug\_07.네임스페이스의_별명_부여.exe.CodeAnalysisLog.xml
+C:\Users\KICT-03\Desktop\c#_study\0728\07. 네임스페이스의 별명 부여\bin\Debug\_07.네임스페이스의_별명_부여.exe.lastcodeanalysissucceeded
+C:\Users\KICT-03\Desktop\c#_study\0728\07. 네임스페이스의 별명 부여\obj\Debug\_07.네임스페이스의_별명_부여.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\07. 네임스페이스의 별명 부여\obj\Debug\_07.네임스페이스의_별명_부여.pdb

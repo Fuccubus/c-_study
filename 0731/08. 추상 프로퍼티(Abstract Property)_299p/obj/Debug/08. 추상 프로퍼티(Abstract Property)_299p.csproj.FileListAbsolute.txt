@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0731\08. 추상 프로퍼티(Abstract Property)_299p\bin\Debug\_08.추상_프로퍼티_Abstract_Property__299p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\08. 추상 프로퍼티(Abstract Property)_299p\bin\Debug\_08.추상_프로퍼티_Abstract_Property__299p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0731\08. 추상 프로퍼티(Abstract Property)_299p\obj\Debug\08. 추상 프로퍼티(Abstract Property)_299p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0731\08. 추상 프로퍼티(Abstract Property)_299p\obj\Debug\_08.추상_프로퍼티_Abstract_Property__299p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\08. 추상 프로퍼티(Abstract Property)_299p\obj\Debug\_08.추상_프로퍼티_Abstract_Property__299p.pdb

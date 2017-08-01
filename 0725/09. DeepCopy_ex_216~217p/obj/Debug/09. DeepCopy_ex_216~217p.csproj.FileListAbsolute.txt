@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\09. DeepCopy_ex_216~217p\obj\Debug\09. DeepCopy_ex_216~217p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0725\09. DeepCopy_ex_216~217p\bin\Debug\_09.DeepCopy_ex_216_217p.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\09. DeepCopy_ex_216~217p\bin\Debug\_09.DeepCopy_ex_216_217p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\09. DeepCopy_ex_216~217p\obj\Debug\_09.DeepCopy_ex_216_217p.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\09. DeepCopy_ex_216~217p\obj\Debug\_09.DeepCopy_ex_216_217p.pdb

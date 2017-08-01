@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0727\07. class 내 정적(Static) 변수\bin\Debug\_07.class_내_정적_Static__변수.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\07. class 내 정적(Static) 변수\bin\Debug\_07.class_내_정적_Static__변수.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\07. class 내 정적(Static) 변수\obj\Debug\07. class 내 정적(Static) 변수.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0727\07. class 내 정적(Static) 변수\obj\Debug\_07.class_내_정적_Static__변수.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\07. class 내 정적(Static) 변수\obj\Debug\_07.class_내_정적_Static__변수.pdb

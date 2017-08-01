@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0801\04. 인덱서(Indexer)의 정의_ex_333p\bin\Debug\_04.인덱서_Indexer_의_정의_ex_333p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\04. 인덱서(Indexer)의 정의_ex_333p\bin\Debug\_04.인덱서_Indexer_의_정의_ex_333p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0801\04. 인덱서(Indexer)의 정의_ex_333p\obj\Debug\04. 인덱서(Indexer)의 정의_ex_333p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0801\04. 인덱서(Indexer)의 정의_ex_333p\obj\Debug\_04.인덱서_Indexer_의_정의_ex_333p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\04. 인덱서(Indexer)의 정의_ex_333p\obj\Debug\_04.인덱서_Indexer_의_정의_ex_333p.pdb

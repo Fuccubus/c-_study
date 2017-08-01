@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0731\05. 추상 클래스_ex_276~277p\bin\Debug\_05.추상_클래스_ex_276_277p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\05. 추상 클래스_ex_276~277p\bin\Debug\_05.추상_클래스_ex_276_277p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0731\05. 추상 클래스_ex_276~277p\obj\Debug\_05.추상_클래스_ex_276_277p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\05. 추상 클래스_ex_276~277p\obj\Debug\_05.추상_클래스_ex_276_277p.pdb

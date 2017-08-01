@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\11. class_얕은 복사와 깊은 복사2\bin\Debug\_11.class_얕은_복사와_깊은_복사2.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\11. class_얕은 복사와 깊은 복사2\bin\Debug\_11.class_얕은_복사와_깊은_복사2.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\11. class_얕은 복사와 깊은 복사2\obj\Debug\_11.class_얕은_복사와_깊은_복사2.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\11. class_얕은 복사와 깊은 복사2\obj\Debug\_11.class_얕은_복사와_깊은_복사2.pdb

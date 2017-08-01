@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0726\05. 구조체(struct)_ex_258~259p\bin\Debug\_05.구조체_struct__ex_258_259p.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\05. 구조체(struct)_ex_258~259p\bin\Debug\_05.구조체_struct__ex_258_259p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0726\05. 구조체(struct)_ex_258~259p\obj\Debug\_05.구조체_struct__ex_258_259p.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\05. 구조체(struct)_ex_258~259p\obj\Debug\_05.구조체_struct__ex_258_259p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0726\05. 구조체(struct)_ex_258~259p\obj\Debug\05. 구조체(struct)_ex_258~259p.csprojResolveAssemblyReference.cache

@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. 일반화(Generalization)의 정의와 일반화 메서드(Generic Method)", "01. 일반화(Generalization)의 정의와 일반화 메서드(Generic Method)\01. 일반화(Generalization)의 정의와 일반화 메서드(Generic Method).csproj", "{C2A7AFFA-B71D-400C-A3A3-DF66D3E92974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. 일반화 메서드_ex_345p", "02. 일반화 메서드_ex_345p\02. 일반화 메서드_ex_345p.csproj", "{78E398AF-F996-4B6C-97F0-4C04D30C37C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. 일반화 클래스(Generic Class)", "03. 일반화 클래스(Generic Class)\03. 일반화 클래스(Generic Class).csproj", "{B2964E8A-F275-4D18-A913-5ADD13127BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. 인덱서(Indexer)의 정의_ex_333p", "04. 인덱서(Indexer)의 정의_ex_333p\04. 인덱서(Indexer)의 정의_ex_333p.csproj", "{40B2A2D0-EDCD-4F8F-B50E-58360D3213A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. 인덱서와 일반화 클래스_ex_348p", "05. 인덱서와 일반화 클래스_ex_348p\05. 인덱서와 일반화 클래스_ex_348p.csproj", "{18D92F4E-54C1-46CF-89A2-C21DA4604A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. 일반화 컬렉션_리스트(List)_ex_356p", "06. 일반화 컬렉션_리스트(List)_ex_356p\06. 일반화 컬렉션_리스트(List)_ex_356p.csproj", "{7D9C55F8-4B27-42F6-BCE4-EC6E84D96383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. 일반화 컬렉션_딕셔너리_(Dictionary)_ex_360p", "07. 일반화 컬렉션_딕셔너리_(Dictionary)_ex_360p\07. 일반화 컬렉션_딕셔너리_(Dictionary)_ex_360p.csproj", "{C3A80146-E6C9-4D38-A655-A2CCC4EC14A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. 예외처리(Exception)의 정의와 try~catch문", "08. 예외처리(Exception)의 정의와 try~catch문\08. 예외처리(Exception)의 정의와 try~catch문.csproj", "{33552EDA-538F-48A0-AE73-1397EB67CC93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. 예외 던지기(throw)_ex_374p", "09. 예외 던지기(throw)_ex_374p\09. 예외 던지기(throw)_ex_374p.csproj", "{52D6A82C-C67B-4B13-B38F-DEC35D1016AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 예외처리_finally문_ex_377p", "10. 예외처리_finally문_ex_377p\10. 예외처리_finally문_ex_377p.csproj", "{51AF06C1-2C1F-44C9-941C-EF203EA2F0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A7AFFA-B71D-400C-A3A3-DF66D3E92974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A7AFFA-B71D-400C-A3A3-DF66D3E92974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A7AFFA-B71D-400C-A3A3-DF66D3E92974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A7AFFA-B71D-400C-A3A3-DF66D3E92974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E398AF-F996-4B6C-97F0-4C04D30C37C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E398AF-F996-4B6C-97F0-4C04D30C37C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E398AF-F996-4B6C-97F0-4C04D30C37C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E398AF-F996-4B6C-97F0-4C04D30C37C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2964E8A-F275-4D18-A913-5ADD13127BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2964E8A-F275-4D18-A913-5ADD13127BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2964E8A-F275-4D18-A913-5ADD13127BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2964E8A-F275-4D18-A913-5ADD13127BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B2A2D0-EDCD-4F8F-B50E-58360D3213A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B2A2D0-EDCD-4F8F-B50E-58360D3213A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B2A2D0-EDCD-4F8F-B50E-58360D3213A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B2A2D0-EDCD-4F8F-B50E-58360D3213A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D92F4E-54C1-46CF-89A2-C21DA4604A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D92F4E-54C1-46CF-89A2-C21DA4604A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D92F4E-54C1-46CF-89A2-C21DA4604A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D92F4E-54C1-46CF-89A2-C21DA4604A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9C55F8-4B27-42F6-BCE4-EC6E84D96383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9C55F8-4B27-42F6-BCE4-EC6E84D96383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9C55F8-4B27-42F6-BCE4-EC6E84D96383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9C55F8-4B27-42F6-BCE4-EC6E84D96383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A80146-E6C9-4D38-A655-A2CCC4EC14A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A80146-E6C9-4D38-A655-A2CCC4EC14A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A80146-E6C9-4D38-A655-A2CCC4EC14A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A80146-E6C9-4D38-A655-A2CCC4EC14A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33552EDA-538F-48A0-AE73-1397EB67CC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33552EDA-538F-48A0-AE73-1397EB67CC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33552EDA-538F-48A0-AE73-1397EB67CC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33552EDA-538F-48A0-AE73-1397EB67CC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D6A82C-C67B-4B13-B38F-DEC35D1016AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D6A82C-C67B-4B13-B38F-DEC35D1016AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D6A82C-C67B-4B13-B38F-DEC35D1016AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D6A82C-C67B-4B13-B38F-DEC35D1016AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AF06C1-2C1F-44C9-941C-EF203EA2F0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AF06C1-2C1F-44C9-941C-EF203EA2F0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AF06C1-2C1F-44C9-941C-EF203EA2F0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AF06C1-2C1F-44C9-941C-EF203EA2F0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

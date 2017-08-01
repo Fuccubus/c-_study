@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0801\07. 일반화 컬렉션_딕셔너리_(Dictionary)_ex_360p\bin\Debug\_07.일반화_컬렉션_딕셔너리__Dictionary__ex_360p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\07. 일반화 컬렉션_딕셔너리_(Dictionary)_ex_360p\bin\Debug\_07.일반화_컬렉션_딕셔너리__Dictionary__ex_360p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0801\07. 일반화 컬렉션_딕셔너리_(Dictionary)_ex_360p\obj\Debug\_07.일반화_컬렉션_딕셔너리__Dictionary__ex_360p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\07. 일반화 컬렉션_딕셔너리_(Dictionary)_ex_360p\obj\Debug\_07.일반화_컬렉션_딕셔너리__Dictionary__ex_360p.pdb

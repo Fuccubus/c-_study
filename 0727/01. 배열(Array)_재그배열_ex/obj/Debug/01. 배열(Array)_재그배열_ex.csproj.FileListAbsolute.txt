@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_재그배열_ex\bin\Debug\_01.배열_Array__재그배열_ex.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_재그배열_ex\bin\Debug\_01.배열_Array__재그배열_ex.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_재그배열_ex\obj\Debug\_01.배열_Array__재그배열_ex.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_재그배열_ex\obj\Debug\_01.배열_Array__재그배열_ex.pdb

@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\06. class_ex_211~212p\bin\Debug\_06.class_ex_211_212p.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\06. class_ex_211~212p\bin\Debug\_06.class_ex_211_212p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\06. class_ex_211~212p\obj\Debug\06. class_ex_211~212p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0725\06. class_ex_211~212p\obj\Debug\_06.class_ex_211_212p.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\06. class_ex_211~212p\obj\Debug\_06.class_ex_211_212p.pdb

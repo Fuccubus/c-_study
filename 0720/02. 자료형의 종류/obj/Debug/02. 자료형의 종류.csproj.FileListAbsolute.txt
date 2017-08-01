@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\02. 자료형의 종류\bin\Debug\_02.자료형의_종류.exe
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\02. 자료형의 종류\bin\Debug\_02.자료형의_종류.pdb
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\02. 자료형의 종류\obj\Debug\02. 자료형의 종류.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\02. 자료형의 종류\obj\Debug\_02.자료형의_종류.exe
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\02. 자료형의 종류\obj\Debug\_02.자료형의_종류.pdb

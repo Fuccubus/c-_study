@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0801\09. 예외 던지기(throw)_ex_374p\bin\Debug\_09.예외_던지기_throw__ex_374p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\09. 예외 던지기(throw)_ex_374p\bin\Debug\_09.예외_던지기_throw__ex_374p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0801\09. 예외 던지기(throw)_ex_374p\obj\Debug\_09.예외_던지기_throw__ex_374p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\09. 예외 던지기(throw)_ex_374p\obj\Debug\_09.예외_던지기_throw__ex_374p.pdb

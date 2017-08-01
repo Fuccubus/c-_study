@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0726\02. this() 생성자_ex_222~223p\bin\Debug\_02.this___생성자_ex_222_223p.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\02. this() 생성자_ex_222~223p\bin\Debug\_02.this___생성자_ex_222_223p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0726\02. this() 생성자_ex_222~223p\obj\Debug\02. this() 생성자_ex_222~223p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0726\02. this() 생성자_ex_222~223p\obj\Debug\_02.this___생성자_ex_222_223p.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\02. this() 생성자_ex_222~223p\obj\Debug\_02.this___생성자_ex_222_223p.pdb

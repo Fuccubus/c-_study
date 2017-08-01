@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\03. 수치를 문자로, 문자를 수치로_1\bin\Debug\_03.수치를_문자로__문자를_수치로_1.exe
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\03. 수치를 문자로, 문자를 수치로_1\bin\Debug\_03.수치를_문자로__문자를_수치로_1.pdb
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\03. 수치를 문자로, 문자를 수치로_1\obj\Debug\03. 수치를 문자로, 문자를 수치로_1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\03. 수치를 문자로, 문자를 수치로_1\obj\Debug\_03.수치를_문자로__문자를_수치로_1.exe
+C:\Users\Administrator\Desktop\JICA Unity 3D 교육\c#_study\0720\03. 수치를 문자로, 문자를 수치로_1\obj\Debug\_03.수치를_문자로__문자를_수치로_1.pdb

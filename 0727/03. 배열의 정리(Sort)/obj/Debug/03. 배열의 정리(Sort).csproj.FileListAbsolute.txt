@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0727\03. 배열의 정리(Sort)\bin\Debug\_03.배열의_정리_Sort_.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\03. 배열의 정리(Sort)\bin\Debug\_03.배열의_정리_Sort_.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\03. 배열의 정리(Sort)\obj\Debug\_03.배열의_정리_Sort_.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\03. 배열의 정리(Sort)\obj\Debug\_03.배열의_정리_Sort_.pdb

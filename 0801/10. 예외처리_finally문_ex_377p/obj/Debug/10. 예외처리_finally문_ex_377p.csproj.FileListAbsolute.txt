@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0801\10. 예외처리_finally문_ex_377p\bin\Debug\_10.예외처리_finally문_ex_377p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\10. 예외처리_finally문_ex_377p\bin\Debug\_10.예외처리_finally문_ex_377p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0801\10. 예외처리_finally문_ex_377p\obj\Debug\_10.예외처리_finally문_ex_377p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\10. 예외처리_finally문_ex_377p\obj\Debug\_10.예외처리_finally문_ex_377p.pdb

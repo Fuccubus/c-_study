@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0727\05. 상속으로 코드 재활용_ex_231~233p\bin\Debug\_05.상속으로_코드_재활용_ex_231_233p.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\05. 상속으로 코드 재활용_ex_231~233p\bin\Debug\_05.상속으로_코드_재활용_ex_231_233p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\05. 상속으로 코드 재활용_ex_231~233p\obj\Debug\05. 상속으로 코드 재활용_ex_231~233p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0727\05. 상속으로 코드 재활용_ex_231~233p\obj\Debug\_05.상속으로_코드_재활용_ex_231_233p.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\05. 상속으로 코드 재활용_ex_231~233p\obj\Debug\_05.상속으로_코드_재활용_ex_231_233p.pdb

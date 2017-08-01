@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_ex\bin\Debug\_01.배열_Array__ex.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_ex\bin\Debug\_01.배열_Array__ex.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_ex\obj\Debug\01. 배열(Array)_ex.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_ex\obj\Debug\_01.배열_Array__ex.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\01. 배열(Array)_ex\obj\Debug\_01.배열_Array__ex.pdb

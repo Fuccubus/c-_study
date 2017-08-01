@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. 기초와 Console.Write문, Console.WriteLine문", "01. 기초와 Console.Write문, Console.WriteLine문\01. 기초와 Console.Write문, Console.WriteLine문.csproj", "{699C0ED1-DEEA-49F3-A14E-ACE9C8A3382E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. 자료형의 종류", "02. 자료형의 종류\02. 자료형의 종류.csproj", "{E032A466-B65E-4F69-9A2B-B11BDFF60307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. 수치를 문자로, 문자를 수치로_1", "03. 수치를 문자로, 문자를 수치로_1\03. 수치를 문자로, 문자를 수치로_1.csproj", "{E30F5A68-A422-4EFB-80AF-C1263D1B42F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. 응용문제", "05. 응용문제\05. 응용문제.csproj", "{34F177B3-4BDC-4C3E-A3E2-B51AC9FB13DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. 03의 자료형 변환 보강 및 operator 종류", "04. 03의 자료형 변환 보강 및 operator 종류\04. 03의 자료형 변환 보강 및 operator 종류.csproj", "{EAFF71E6-D704-4669-8382-3CF59EB945DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699C0ED1-DEEA-49F3-A14E-ACE9C8A3382E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699C0ED1-DEEA-49F3-A14E-ACE9C8A3382E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699C0ED1-DEEA-49F3-A14E-ACE9C8A3382E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699C0ED1-DEEA-49F3-A14E-ACE9C8A3382E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E032A466-B65E-4F69-9A2B-B11BDFF60307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E032A466-B65E-4F69-9A2B-B11BDFF60307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E032A466-B65E-4F69-9A2B-B11BDFF60307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E032A466-B65E-4F69-9A2B-B11BDFF60307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30F5A68-A422-4EFB-80AF-C1263D1B42F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30F5A68-A422-4EFB-80AF-C1263D1B42F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30F5A68-A422-4EFB-80AF-C1263D1B42F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30F5A68-A422-4EFB-80AF-C1263D1B42F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F177B3-4BDC-4C3E-A3E2-B51AC9FB13DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F177B3-4BDC-4C3E-A3E2-B51AC9FB13DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F177B3-4BDC-4C3E-A3E2-B51AC9FB13DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F177B3-4BDC-4C3E-A3E2-B51AC9FB13DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFF71E6-D704-4669-8382-3CF59EB945DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFF71E6-D704-4669-8382-3CF59EB945DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFF71E6-D704-4669-8382-3CF59EB945DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFF71E6-D704-4669-8382-3CF59EB945DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

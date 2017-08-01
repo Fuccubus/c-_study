@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\01. class_ex1\bin\Debug\_01.class_ex1.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\01. class_ex1\bin\Debug\_01.class_ex1.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\01. class_ex1\obj\Debug\01. class_ex1.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0725\01. class_ex1\obj\Debug\_01.class_ex1.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\01. class_ex1\obj\Debug\_01.class_ex1.pdb

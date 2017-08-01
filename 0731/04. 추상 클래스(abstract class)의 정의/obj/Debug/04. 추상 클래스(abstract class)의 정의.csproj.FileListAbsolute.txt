@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0731\04. 추상 클래스(abstract class)의 정의\bin\Debug\_04.추상_클래스_abstract_class_의_정의.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\04. 추상 클래스(abstract class)의 정의\bin\Debug\_04.추상_클래스_abstract_class_의_정의.pdb
+C:\Users\KICT-03\Desktop\c#_study\0731\04. 추상 클래스(abstract class)의 정의\obj\Debug\04. 추상 클래스(abstract class)의 정의.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0731\04. 추상 클래스(abstract class)의 정의\obj\Debug\_04.추상_클래스_abstract_class_의_정의.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\04. 추상 클래스(abstract class)의 정의\obj\Debug\_04.추상_클래스_abstract_class_의_정의.pdb

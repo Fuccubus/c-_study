@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0727\06. 기반 class와 파생 class 사이의 형식 변환, is와 as_ex_237~238p\bin\Debug\_06.기반_class와_파생_class_사이의_형식_변환__is와_as_ex_237_238p.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\06. 기반 class와 파생 class 사이의 형식 변환, is와 as_ex_237~238p\bin\Debug\_06.기반_class와_파생_class_사이의_형식_변환__is와_as_ex_237_238p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0727\06. 기반 class와 파생 class 사이의 형식 변환, is와 as_ex_237~238p\obj\Debug\06. 기반 class와 파생 class 사이의 형식 변환, is와 as_ex_237~238p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0727\06. 기반 class와 파생 class 사이의 형식 변환, is와 as_ex_237~238p\obj\Debug\_06.기반_class와_파생_class_사이의_형식_변환__is와_as_ex_237_238p.exe
+C:\Users\KICT-03\Desktop\c#_study\0727\06. 기반 class와 파생 class 사이의 형식 변환, is와 as_ex_237~238p\obj\Debug\_06.기반_class와_파생_class_사이의_형식_변환__is와_as_ex_237_238p.pdb

@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\08. constructor destructor_ex\bin\Debug\_08.constructor_destructor_ex.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\08. constructor destructor_ex\bin\Debug\_08.constructor_destructor_ex.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\08. constructor destructor_ex\obj\Debug\_08.constructor_destructor_ex.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\08. constructor destructor_ex\obj\Debug\_08.constructor_destructor_ex.pdb

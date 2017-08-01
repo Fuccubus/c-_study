@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\07. class_정적 자료형\bin\Debug\_07.class_정적_자료형.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\07. class_정적 자료형\bin\Debug\_07.class_정적_자료형.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\07. class_정적 자료형\obj\Debug\_07.class_정적_자료형.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\07. class_정적 자료형\obj\Debug\_07.class_정적_자료형.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\07. class_정적 자료형\obj\Debug\07. class_정적 자료형.csprojResolveAssemblyReference.cache

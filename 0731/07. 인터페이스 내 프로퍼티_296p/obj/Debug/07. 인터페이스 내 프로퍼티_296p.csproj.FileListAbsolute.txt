@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0731\07. 인터페이스 내 프로퍼티_296p\bin\Debug\_07.인터페이스_내_프로퍼티_296p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\07. 인터페이스 내 프로퍼티_296p\bin\Debug\_07.인터페이스_내_프로퍼티_296p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0731\07. 인터페이스 내 프로퍼티_296p\obj\Debug\07. 인터페이스 내 프로퍼티_296p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0731\07. 인터페이스 내 프로퍼티_296p\obj\Debug\_07.인터페이스_내_프로퍼티_296p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\07. 인터페이스 내 프로퍼티_296p\obj\Debug\_07.인터페이스_내_프로퍼티_296p.pdb

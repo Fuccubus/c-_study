@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0731\10. 컬렉션_대기열(Queue)_327p\bin\Debug\_10.컬렉션_대기열_Queue__327p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\10. 컬렉션_대기열(Queue)_327p\bin\Debug\_10.컬렉션_대기열_Queue__327p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0731\10. 컬렉션_대기열(Queue)_327p\obj\Debug\_10.컬렉션_대기열_Queue__327p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\10. 컬렉션_대기열(Queue)_327p\obj\Debug\_10.컬렉션_대기열_Queue__327p.pdb

@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\10. 오버라이딩(Overriding)과 다형성(Polymorphism)_ex_241~242p\bin\Debug\_10.오버라이딩_Overriding_과_다형성_Polymorphism__ex_241_242p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\10. 오버라이딩(Overriding)과 다형성(Polymorphism)_ex_241~242p\bin\Debug\_10.오버라이딩_Overriding_과_다형성_Polymorphism__ex_241_242p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\10. 오버라이딩(Overriding)과 다형성(Polymorphism)_ex_241~242p\obj\Debug\10. 오버라이딩(Overriding)과 다형성(Polymorphism)_ex_241~242p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0728\10. 오버라이딩(Overriding)과 다형성(Polymorphism)_ex_241~242p\obj\Debug\_10.오버라이딩_Overriding_과_다형성_Polymorphism__ex_241_242p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\10. 오버라이딩(Overriding)과 다형성(Polymorphism)_ex_241~242p\obj\Debug\_10.오버라이딩_Overriding_과_다형성_Polymorphism__ex_241_242p.pdb

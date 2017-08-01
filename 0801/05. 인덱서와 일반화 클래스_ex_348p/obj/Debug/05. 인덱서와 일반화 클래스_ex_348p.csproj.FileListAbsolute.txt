@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0801\05. 인덱서와 일반화 클래스_ex_348p\bin\Debug\_05.인덱서와_일반화_클래스_ex_348p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\05. 인덱서와 일반화 클래스_ex_348p\bin\Debug\_05.인덱서와_일반화_클래스_ex_348p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0801\05. 인덱서와 일반화 클래스_ex_348p\obj\Debug\05. 인덱서와 일반화 클래스_ex_348p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0801\05. 인덱서와 일반화 클래스_ex_348p\obj\Debug\_05.인덱서와_일반화_클래스_ex_348p.exe
+C:\Users\KICT-03\Desktop\c#_study\0801\05. 인덱서와 일반화 클래스_ex_348p\obj\Debug\_05.인덱서와_일반화_클래스_ex_348p.pdb

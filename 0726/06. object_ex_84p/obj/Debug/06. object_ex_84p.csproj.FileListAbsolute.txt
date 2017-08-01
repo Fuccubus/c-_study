@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0726\06. object_ex_84p\bin\Debug\_06.object_ex_84p.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\06. object_ex_84p\bin\Debug\_06.object_ex_84p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0726\06. object_ex_84p\obj\Debug\_06.object_ex_84p.exe
+C:\Users\KICT-03\Desktop\c#_study\0726\06. object_ex_84p\obj\Debug\_06.object_ex_84p.pdb

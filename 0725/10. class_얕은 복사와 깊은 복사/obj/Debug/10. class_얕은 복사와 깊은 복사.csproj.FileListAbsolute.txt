@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0725\10. class_얕은 복사와 깊은 복사\bin\Debug\_10.class_얕은_복사와_깊은_복사.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\10. class_얕은 복사와 깊은 복사\bin\Debug\_10.class_얕은_복사와_깊은_복사.pdb
+C:\Users\KICT-03\Desktop\c#_study\0725\10. class_얕은 복사와 깊은 복사\obj\Debug\10. class_얕은 복사와 깊은 복사.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0725\10. class_얕은 복사와 깊은 복사\obj\Debug\_10.class_얕은_복사와_깊은_복사.exe
+C:\Users\KICT-03\Desktop\c#_study\0725\10. class_얕은 복사와 깊은 복사\obj\Debug\_10.class_얕은_복사와_깊은_복사.pdb

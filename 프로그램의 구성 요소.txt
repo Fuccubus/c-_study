@@ -1,0 +1,54 @@
+프로그램의 구성 요소
+
+순차 - 자료형의 선언과 세팅, 계산
+
+반복 - 원하는 결과를 도출할 때까지 로직의 수행을 중첩
+
+for(횟수 제한이 있다는 전제 하에), while, do-while
+
+foreach()
+
+비교 - 계산식이 목적에 맞는지 확인
+
+if(조건을 매겨서 참, 거짓을 체크)
+
+if-else
+
+switch-case(값을 정해놓고 각 case와 비교)
+
+q1:
+점수를 받았고, 90 이상이면 A, 80 이상이면 B, 그외는 C
+
+if-else
+
+if(num >= 90) //조건 -> 값 / 값 -> 조건
+출력 A
+
+else if(num >= 80)
+출력 B
+
+else
+출력C
+
+
+
+
+
+switch-case
+
+//90이상 90, 91 99
+switch(num/10) ;//값이 온다.. -> 계산.. 값이 오는 것.
+
+case 10:
+
+case 9:
+출력 A
+break;
+
+case 8:
+출력 B
+break;
+
+default:
+출력 A
+break;

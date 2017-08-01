@@ -1,0 +1,5 @@
+C:\Users\KICT-03\Desktop\c#_study\0731\06. 프로퍼티의 무명형식(Anonymous Type)_294p\bin\Debug\_06.프로퍼티의_무명형식_Anonymous_Type__294p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\06. 프로퍼티의 무명형식(Anonymous Type)_294p\bin\Debug\_06.프로퍼티의_무명형식_Anonymous_Type__294p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0731\06. 프로퍼티의 무명형식(Anonymous Type)_294p\obj\Debug\06. 프로퍼티의 무명형식(Anonymous Type)_294p.csprojResolveAssemblyReference.cache
+C:\Users\KICT-03\Desktop\c#_study\0731\06. 프로퍼티의 무명형식(Anonymous Type)_294p\obj\Debug\_06.프로퍼티의_무명형식_Anonymous_Type__294p.exe
+C:\Users\KICT-03\Desktop\c#_study\0731\06. 프로퍼티의 무명형식(Anonymous Type)_294p\obj\Debug\_06.프로퍼티의_무명형식_Anonymous_Type__294p.pdb

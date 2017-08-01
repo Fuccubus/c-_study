@@ -1,0 +1,6 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\01. 프로퍼티(property)_접근자(Accessor)_ex_285~287p\bin\Debug\_01.프로퍼티_property__접근자_Accessor__ex_285_287p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\01. 프로퍼티(property)_접근자(Accessor)_ex_285~287p\bin\Debug\_01.프로퍼티_property__접근자_Accessor__ex_285_287p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\01. 프로퍼티(property)_접근자(Accessor)_ex_285~287p\obj\Debug\_01.프로퍼티_property__접근자_Accessor__ex_285_287p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\01. 프로퍼티(property)_접근자(Accessor)_ex_285~287p\obj\Debug\_01.프로퍼티_property__접근자_Accessor__ex_285_287p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\01. 프로퍼티(property)_접근자(Accessor)_ex_285~287p\bin\Debug\_01.프로퍼티_property__접근자_Accessor__ex_285_287p.exe.CodeAnalysisLog.xml
+C:\Users\KICT-03\Desktop\c#_study\0728\01. 프로퍼티(property)_접근자(Accessor)_ex_285~287p\bin\Debug\_01.프로퍼티_property__접근자_Accessor__ex_285_287p.exe.lastcodeanalysissucceeded

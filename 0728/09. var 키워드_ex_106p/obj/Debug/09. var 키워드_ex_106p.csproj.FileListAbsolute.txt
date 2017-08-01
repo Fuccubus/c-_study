@@ -1,0 +1,4 @@
+C:\Users\KICT-03\Desktop\c#_study\0728\09. var 키워드_ex_106p\bin\Debug\_09.var_키워드_ex_106p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\09. var 키워드_ex_106p\bin\Debug\_09.var_키워드_ex_106p.pdb
+C:\Users\KICT-03\Desktop\c#_study\0728\09. var 키워드_ex_106p\obj\Debug\_09.var_키워드_ex_106p.exe
+C:\Users\KICT-03\Desktop\c#_study\0728\09. var 키워드_ex_106p\obj\Debug\_09.var_키워드_ex_106p.pdb

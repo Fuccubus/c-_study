@@ -1,0 +1,11 @@
+MagicaVoxel > Export > MC로 저장
+
+3D Builder 로 해당 파일을 불러오기 > 모델 가져오기 > 다른 이름으로 저장 > OBJ 파일로 저장
+
+http://www.meshconvert.com/?userfile_url=&requiredfile_userfile=1&outFormat=obj
+
+구글에서 obj to fbx converter 검색해서 Autodesk FBX 다운로드 후 설치
+
+컨버터에 obj파일을 넘긴 뒤 변환시키고
+
+유니티에 add esset로 import한 뒤 변환시킨 fbx 파일을 불러오면 끝

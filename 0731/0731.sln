@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. 인터페이스(Interface)의 정의", "01. 인터페이스(Interface)의 정의\01. 인터페이스(Interface)의 정의.csproj", "{8DA89BE6-F019-4AF4-9BC0-934B89C07DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. 인터페이스의 상속(Inheritance)", "02. 인터페이스의 상속(Inheritance)\02. 인터페이스의 상속(Inheritance).csproj", "{76040840-B70E-4031-81BB-3A630AEA52A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. 인터페이스의 다중 상속(Multi Interface Inheritance)", "03. 인터페이스의 다중 상속(Multi Interface Inheritance)\03. 인터페이스의 다중 상속(Multi Interface Inheritance).csproj", "{9CF05BFE-D28D-4259-9706-8E3D0AABF956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. 추상 클래스(abstract class)의 정의", "04. 추상 클래스(abstract class)의 정의\04. 추상 클래스(abstract class)의 정의.csproj", "{8C5C4C8B-4D57-4916-A8A8-AB108B0F41D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. 추상 클래스_ex_276~277p", "05. 추상 클래스_ex_276~277p\05. 추상 클래스_ex_276~277p.csproj", "{0B3AECF9-13FB-45A6-BCC7-0086E1FE60E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. 프로퍼티의 무명형식(Anonymous Type)_294p", "06. 프로퍼티의 무명형식(Anonymous Type)_294p\06. 프로퍼티의 무명형식(Anonymous Type)_294p.csproj", "{D3726CC5-B631-4C7E-AF09-38050BB29438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. 인터페이스 내 프로퍼티_296p", "07. 인터페이스 내 프로퍼티_296p\07. 인터페이스 내 프로퍼티_296p.csproj", "{C5D28555-095B-4789-AF74-0F797012FE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. 추상 프로퍼티(Abstract Property)_299p", "08. 추상 프로퍼티(Abstract Property)_299p\08. 추상 프로퍼티(Abstract Property)_299p.csproj", "{B2B60F0B-D644-4EA7-B71C-A9B76AEB318D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 컬렉션_대기열(Queue)_327p", "10. 컬렉션_대기열(Queue)_327p\10. 컬렉션_대기열(Queue)_327p.csproj", "{47AD9D84-0609-4B11-A61E-65121611A0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. 컬렉션(Collection)의 정의, ArrayList_323p", "09. 컬렉션(Collection)의 정의, ArrayList_323p\09. 컬렉션(Collection)의 정의, ArrayList_323p.csproj", "{E928C573-A47E-4AA1-88C3-70917F0C6362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. 컬렉션_해쉬테이블(Hashtable)_330p", "11. 컬렉션_해쉬테이블(Hashtable)_330p\11. 컬렉션_해쉬테이블(Hashtable)_330p.csproj", "{748E7734-7BF4-4663-B419-B7D4C9FD4051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA89BE6-F019-4AF4-9BC0-934B89C07DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA89BE6-F019-4AF4-9BC0-934B89C07DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA89BE6-F019-4AF4-9BC0-934B89C07DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA89BE6-F019-4AF4-9BC0-934B89C07DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76040840-B70E-4031-81BB-3A630AEA52A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76040840-B70E-4031-81BB-3A630AEA52A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76040840-B70E-4031-81BB-3A630AEA52A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76040840-B70E-4031-81BB-3A630AEA52A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF05BFE-D28D-4259-9706-8E3D0AABF956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF05BFE-D28D-4259-9706-8E3D0AABF956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF05BFE-D28D-4259-9706-8E3D0AABF956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF05BFE-D28D-4259-9706-8E3D0AABF956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5C4C8B-4D57-4916-A8A8-AB108B0F41D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5C4C8B-4D57-4916-A8A8-AB108B0F41D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5C4C8B-4D57-4916-A8A8-AB108B0F41D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5C4C8B-4D57-4916-A8A8-AB108B0F41D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3AECF9-13FB-45A6-BCC7-0086E1FE60E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3AECF9-13FB-45A6-BCC7-0086E1FE60E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3AECF9-13FB-45A6-BCC7-0086E1FE60E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3AECF9-13FB-45A6-BCC7-0086E1FE60E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3726CC5-B631-4C7E-AF09-38050BB29438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3726CC5-B631-4C7E-AF09-38050BB29438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3726CC5-B631-4C7E-AF09-38050BB29438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3726CC5-B631-4C7E-AF09-38050BB29438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D28555-095B-4789-AF74-0F797012FE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D28555-095B-4789-AF74-0F797012FE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D28555-095B-4789-AF74-0F797012FE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D28555-095B-4789-AF74-0F797012FE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B60F0B-D644-4EA7-B71C-A9B76AEB318D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B60F0B-D644-4EA7-B71C-A9B76AEB318D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B60F0B-D644-4EA7-B71C-A9B76AEB318D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B60F0B-D644-4EA7-B71C-A9B76AEB318D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AD9D84-0609-4B11-A61E-65121611A0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AD9D84-0609-4B11-A61E-65121611A0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AD9D84-0609-4B11-A61E-65121611A0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AD9D84-0609-4B11-A61E-65121611A0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E928C573-A47E-4AA1-88C3-70917F0C6362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E928C573-A47E-4AA1-88C3-70917F0C6362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E928C573-A47E-4AA1-88C3-70917F0C6362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E928C573-A47E-4AA1-88C3-70917F0C6362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748E7734-7BF4-4663-B419-B7D4C9FD4051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748E7734-7BF4-4663-B419-B7D4C9FD4051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748E7734-7BF4-4663-B419-B7D4C9FD4051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748E7734-7BF4-4663-B419-B7D4C9FD4051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
