@@ -9,5 +9,7 @@
 		윗 경로는 Android Studio의 경로
 		아랫 경로는 Android SDK의 경로, **이 경로를 복사해 놓을 것
 
+C:\Users\USER\AppData\Local\Android\sdk
+
 4. 유니티 실행 -> Edit -> Preferences -> External Tools 가서
 		아래 Android 란의 SDK 경로에 위에 복사한 경로를 붙이기
